@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python assignment2.py <excel_file> [output_file]
+python assignment2.py sample_map_data.xlsx my_map.html
 ```
 
 Example:
